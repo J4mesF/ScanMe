@@ -9,6 +9,7 @@ Scan With MEEEEEEE
 ## Table Of Contents
 - [Install](#install)
 - [Usage](#usage)
+- [Note](#note)
 
 ## ScreenShot
 <img src="https://raw.githubusercontent.com/J4mesF/ScanMe/master/img/1.png" /><br>
@@ -33,13 +34,13 @@ And paste it [here](https://github.com/J4mesF/ScanMe/blob/master/ScanProcess/API
 If you don't have an account, You can get one [here](https://www.virustotal.com/gui/join-us)
 Make sure that after [sign up](https://www.virustotal.com/gui/join-us) You have to cofirm your mail to active your account.
 
-NOW YOU ARE GOOD TO GO!
+NOW YOU ARE GOOD TO GO!.
 Just by this command:
 ```bash
 $ python3 Run.py
 ```
 ## Note
-Im still dealing with File Scan. It still have some bugs....
+Im still dealing with File Scan. It still have some bugs.
 And just with File under 32MB.
 There a guy had a good move on this API, you can check it out [here](https://github.com/tr4cefl0w/virustotal3).
 See more about how to dealing with Virustotal API [here](https://developers.virustotal.com/v3.0/reference).
