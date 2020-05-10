@@ -1,4 +1,4 @@
-# ScanMe
+## ScanMe
 Scan URL ,File by using virustotal API
 
 <p align="center">
@@ -18,14 +18,15 @@ Scan With MEEEEEEE
 <br>
 
 ## Install
-Linux user with python3.
+## Linux user
+(python3).
 You can install it by :
 ```bash
 $ git clone https://github.com/J4mesF/ScanMe.git
 $ cd  ScanMe
 $ pip3 install -r requirements.txt 
 ```
-Window user:
+## Window user
 Download and extract the source [here](https://github.com/J4mesF/ScanMe)
 Make sure you have already install python and pip3.
 if you dont, get it [here](https://www.python.org/)
@@ -52,11 +53,12 @@ If you don't have an account, You can get one [here](https://www.virustotal.com/
 Make sure that after [sign up](https://www.virustotal.com/gui/join-us) You have to cofirm your mail to active your account.
 
 NOW YOU ARE GOOD TO GO!.
-Linux User,Just by this command:
+# LinuxUser
+Just by this command:
 ```bash
 $ python3 Run.py
 ```
-Window user:
+# Window user
 ```
 C:\Users\Mrhope>cd [PATH_TO_FILE]
 C:\Users\Mrhope>python Run.py
