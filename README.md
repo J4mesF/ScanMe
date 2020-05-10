@@ -1,4 +1,4 @@
-## ScanMe
+# ScanMe
 Scan URL ,File by using virustotal API
 
 <p align="center">
@@ -34,7 +34,9 @@ Open your window cmd and type:
 ```
 C:\Users\Mrhope>pip3 install pyqt5
 C:\Users\Mrhope>pip3 install requests
+```
 or:
+```
 C:\Users\Mrhope>pip3 install --user pyqt5
 C:\Users\Mrhope>pip3 install --user requests
 ```
@@ -42,6 +44,7 @@ if its got error. You have to check is that you already install pip yet. Open cm
 ```
 C:\Users\Mrhope>pip --version
 ```
+if not you have to install it.Checkt it [here](https://www.liquidweb.com/kb/install-pip-windows/)
 
 ## Usage
 To use this Tool you'll need a [Virustotal](https://www.virustotal.com/gui/home) API_KEY.
@@ -53,12 +56,12 @@ If you don't have an account, You can get one [here](https://www.virustotal.com/
 Make sure that after [sign up](https://www.virustotal.com/gui/join-us) You have to cofirm your mail to active your account.
 
 NOW YOU ARE GOOD TO GO!.
-# LinuxUser
+## LinuxUser
 Just by this command:
 ```bash
 $ python3 Run.py
 ```
-# Window user
+## Window user
 ```
 C:\Users\Mrhope>cd [PATH_TO_FILE]
 C:\Users\Mrhope>python Run.py
